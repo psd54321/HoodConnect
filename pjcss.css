@@ -1,0 +1,9 @@
+ #map_canvas { margin: 20px; padding: 0; height: 200px; }
+
+.demoInputBox{padding:7px; border:#F0F0F0 1px solid; border-radius:4px;}
+.status-available{color:#2FC332;}
+.status-not-available{color:#D60202;}
+
+h6{
+	color:green;
+}
